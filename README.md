@@ -1,2 +1,2 @@
-# mi-primer-repositorio-v1
+# mi-primer-README
 Es el repositorio de prueba para aprender a usar la herramienta
